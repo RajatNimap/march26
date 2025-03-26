@@ -12,3 +12,4 @@ C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\refint\March_26.d
 C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.pdb
 C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.genruntimeconfig.cache
 C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\ref\March_26.dll
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.sourcelink.json

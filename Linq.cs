@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace March_26
 {
-    class Linq
+    
+        
+    public class Order
     {
+        public int ID { get; set; }
+        public List<string> Product { get; set; }
 
+        
     }
+     
 }
