@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\March_26\March_26\bin\Debug\net8.0\March_26.exe
+C:\Users\Nimap\source\repos\March_26\March_26\bin\Debug\net8.0\March_26.deps.json
+C:\Users\Nimap\source\repos\March_26\March_26\bin\Debug\net8.0\March_26.runtimeconfig.json
+C:\Users\Nimap\source\repos\March_26\March_26\bin\Debug\net8.0\March_26.dll
+C:\Users\Nimap\source\repos\March_26\March_26\bin\Debug\net8.0\March_26.pdb
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.dll
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\refint\March_26.dll
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.pdb
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\March_26.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\March_26\March_26\obj\Debug\net8.0\ref\March_26.dll
